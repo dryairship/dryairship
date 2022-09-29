@@ -1,8 +1,7 @@
 <h3>Hi 👋, I'm Priydarshi Singh.</h3>
 
-- 👨‍💻 I’m currently working remotely with [Foyer](https://foyer.work) to help increase the efficiency of software developers.
-- ✈ I’ll soon be joining [Optiver](https://www.optiver.com) in their Amsterdam office to help improve the way markets work.
-- 💻 I have previously worked with [Amazon](https://github.com/amzn), [The Linux Foundation](https://linuxfoundation.org/), [C3i Center](https://security.cse.iitk.ac.in/) and [HackCave](https://github.com/hackcave/).
+- 👨‍💻 I’m a Software Engineer at [Optiver](https://www.optiver.com)'s Amsterdam office, helping improve the way markets work.
+- 💻 I have previously worked with [Foyer](https://foyer.work), [Amazon](https://github.com/amzn), [The Linux Foundation](https://linuxfoundation.org/), [C3i Center](https://security.cse.iitk.ac.in/) and [HackCave](https://github.com/hackcave/).
 - 🛡️ I know a few things about **security**, and am always keen to share what I know, and to learn what I don't.
 - 📝 I like learning languages, and am currently learning **Dutch** and **Spanish**.
 - 📚 I'm interested in **history**, **mythology**, **linguistics** and **social administration**.
